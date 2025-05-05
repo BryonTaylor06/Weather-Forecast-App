@@ -3,6 +3,7 @@
 
 
 A Java Swing application that provides weather forecasts based on location input (city/state or coordinates).
+>The "WeatherForecast" file was completed in collaboration with two other students as part of a mini project for CSCI-C212: Introduction to Software Systems at Indiana University during Spring 2025 that just takes in flag arguments so, I wanted to expand on the idea :)
 
 ## Features
 
